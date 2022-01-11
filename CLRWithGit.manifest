@@ -1,0 +1,14 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"addin",
+	"author":	"",
+	"description":	{
+		"":	""
+	},
+	"supportedOS":	"windows",
+	"editEnabled":	true,
+	"id":	"d2628dc6-a0a6-40d9-a5a2-c9b2407dc0c0",
+	"version":	"",
+	"runOnStartup":	false,
+	"sourcewindows":	"CLRWithGit.vcxproj"
+}
