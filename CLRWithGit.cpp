@@ -21,7 +21,7 @@ extern "C" XI_EXPORT bool run(const char* context)
 	if (!ui)
 		return false;
 
-	ui->messageBox("Hello addin");
+	ui->messageBox("Hello addin1");
 
 	return true;
 }
